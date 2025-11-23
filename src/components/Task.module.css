@@ -7,6 +7,10 @@
     justify-content: space-between;
     align-items: center;
 }
+.through {
+    text-decoration: line-through;
+    color: gray;
+}
 .actions {
     display: flex;
     justify-content: flex-end;

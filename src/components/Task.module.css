@@ -1,0 +1,18 @@
+.card-task {
+    border: 1px solid rgb(71, 71, 71);
+    border-radius: 4px;
+    padding: 0.8em;
+    margin-bottom: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5em;
+    margin-top: 0.5em;
+}
+.btnActions {
+    font-size: small;
+}
